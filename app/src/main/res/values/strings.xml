@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Facebook</string>
+    <string name="nombre">Nombre</string>
+    <string name="apellidos">Apellidos</string>
+    <string name="correo">Correo</string>
+    <string name="contra">Contraseña</string>
+    <string name="tel">Teléfono</string>
+    <string name="registro">Registro</string>
+</resources>
